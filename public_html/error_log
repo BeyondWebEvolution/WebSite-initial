@@ -1,0 +1,118 @@
+[08-Nov-2016 08:08:52 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/beyondwe/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Nov-2016 16:03:43 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/beyondwe/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[04-Dec-2016 23:24:15 UTC] PHP Fatal error:  Can't use function return value in write context in /home/beyondwe/public_html/wp-content/themes/skyhead/inc/hooks/latest-blog.php on line 36
+[04-Dec-2016 23:24:35 UTC] PHP Fatal error:  Can't use function return value in write context in /home/beyondwe/public_html/wp-content/themes/skyhead/inc/hooks/latest-blog.php on line 36
+[07-Dec-2016 09:51:15 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/beyondwe/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[18-Dec-2016 10:24:30 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/beyondwe/public_html/vidwall2.php on line 2
+[18-Dec-2016 10:25:02 America/Detroit] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/beyondwe/public_html/vidwall2.php on line 8
+[18-Dec-2016 10:25:29 America/Detroit] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/beyondwe/public_html/vidwall2.php on line 8
+[18-Dec-2016 10:26:24 America/Detroit] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/beyondwe/public_html/vidwall2.php on line 8
+[18-Dec-2016 10:29:11 America/Detroit] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/beyondwe/public_html/vidwall2.php on line 10
+[18-Dec-2016 10:29:48 America/Detroit] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/beyondwe/public_html/vidwall2.php on line 10
+[18-Dec-2016 10:29:50 America/Detroit] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/beyondwe/public_html/vidwall2.php on line 10
+[18-Dec-2016 10:29:51 America/Detroit] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/beyondwe/public_html/vidwall2.php on line 10
+[18-Dec-2016 10:29:52 America/Detroit] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/beyondwe/public_html/vidwall2.php on line 10
+[18-Dec-2016 10:29:52 America/Detroit] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/beyondwe/public_html/vidwall2.php on line 10
+[18-Dec-2016 10:29:52 America/Detroit] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/beyondwe/public_html/vidwall2.php on line 10
+[18-Dec-2016 10:36:25 America/Detroit] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'beyondwe_tmblr'@'localhost' to database 'beyondwe_main' in /home/beyondwe/public_html/vidwall2.php on line 9
+[18-Dec-2016 10:36:48 America/Detroit] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'beyondwe_tmblr'@'localhost' (using password: YES) in /home/beyondwe/public_html/vidwall2.php on line 9
+[18-Dec-2016 10:36:51 America/Detroit] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'beyondwe_tmblr'@'localhost' (using password: YES) in /home/beyondwe/public_html/vidwall2.php on line 9
+[18-Dec-2016 10:37:50 America/Detroit] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'beyondwe_tmblr'@'localhost' to database 'beyondwe_main' in /home/beyondwe/public_html/vidwall2.php on line 9
+[18-Dec-2016 17:42:45 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/beyondwe/public_html/vidwall2.php on line 23
+[18-Dec-2016 17:43:50 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/beyondwe/public_html/vidwall2.php on line 23
+[18-Dec-2016 17:43:55 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/beyondwe/public_html/vidwall2.php on line 23
+[18-Dec-2016 17:44:52 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/beyondwe/public_html/vidwall2.php on line 23
+[18-Dec-2016 17:45:51 America/Detroit] PHP Fatal error:  Call to undefined method mysqli_result::mysql_fetch_array() in /home/beyondwe/public_html/vidwall2.php on line 23
+[18-Dec-2016 17:45:59 America/Detroit] PHP Fatal error:  Call to undefined method mysqli_result::mysql_fetch_array() in /home/beyondwe/public_html/vidwall2.php on line 23
+[24-Dec-2016 01:06:35 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[24-Dec-2016 09:55:19 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[31-Dec-2016 09:59:08 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[31-Dec-2016 10:57:38 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[31-Dec-2016 16:07:35 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[05-Jan-2017 10:01:39 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[09-Jan-2017 21:43:44 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[14-Jan-2017 10:15:34 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[14-Jan-2017 11:27:06 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:06 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:11 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:11 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:15 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:15 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:20 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:20 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:20 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:20 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:20 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:20 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:21 America/Detroit] PHP Warning:  Missing argument 1 for removeEntry(), called in /home/beyondwe/public_html/vid_wall_action.php on line 16 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 57
+[14-Jan-2017 11:27:28 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:28 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:29 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:29 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:29 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:29 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:30 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:30 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:30 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:30 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:30 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:30 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:31 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:31 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:27:59 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:27:59 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:28:09 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:28:09 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:28:11 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:28:11 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:28:11 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:28:11 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:28:12 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:28:12 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:28:12 America/Detroit] PHP Warning:  Missing argument 1 for getNew(), called in /home/beyondwe/public_html/vid_wall_action.php on line 15 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 18
+[14-Jan-2017 11:28:12 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:28:15 America/Detroit] PHP Warning:  Missing argument 1 for removeEntry(), called in /home/beyondwe/public_html/vid_wall_action.php on line 16 and defined in /home/beyondwe/public_html/vid_wall_action.php on line 57
+[14-Jan-2017 11:29:12 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:29:19 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:29:20 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:29:20 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:29:21 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 20
+[14-Jan-2017 11:31:27 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 21
+[14-Jan-2017 11:32:34 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 21
+[14-Jan-2017 11:33:08 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 21
+[15-Jan-2017 10:49:09 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/beyondwe/public_html/vid_wall_action.php on line 95
+[15-Jan-2017 10:49:12 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/beyondwe/public_html/vid_wall_action.php on line 95
+[15-Jan-2017 10:49:14 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/beyondwe/public_html/vid_wall_action.php on line 95
+[15-Jan-2017 10:49:26 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/beyondwe/public_html/vid_wall_action.php on line 95
+[18-Jan-2017 18:33:24 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:33:26 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:37:27 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:37:30 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:37:31 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:37:31 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:37:31 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:37:31 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:37:32 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 34
+[18-Jan-2017 18:43:01 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 35
+[18-Jan-2017 18:43:03 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 35
+[18-Jan-2017 18:43:05 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 35
+[18-Jan-2017 18:54:18 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 77
+[18-Jan-2017 18:54:21 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 77
+[18-Jan-2017 18:54:23 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 77
+[18-Jan-2017 18:56:36 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 78
+[18-Jan-2017 18:56:41 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 78
+[18-Jan-2017 18:56:46 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 78
+[18-Jan-2017 18:58:37 America/Detroit] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/beyondwe/public_html/vid_wall_action.php on line 78
+[18-Jan-2017 18:59:41 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 79
+[18-Jan-2017 18:59:43 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/beyondwe/public_html/vid_wall_action.php on line 79
+[19-Jan-2017 10:34:10 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[19-Jan-2017 17:16:16 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[20-Jan-2017 09:39:53 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[21-Jan-2017 21:36:42 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[22-Jan-2017 10:04:23 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vid_wall_action.php on line 63
+[22-Jan-2017 10:05:17 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[22-Jan-2017 10:05:20 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vid_wall_action.php on line 63
+[22-Jan-2017 10:09:34 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[22-Jan-2017 10:09:37 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vid_wall_action.php on line 63
+[22-Jan-2017 10:09:40 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
+[23-Jan-2017 09:24:41 America/Detroit] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/beyondwe/public_html/vidwall2.php on line 34
